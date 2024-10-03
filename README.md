@@ -1,0 +1,3 @@
+﻿# ManualRotatorOAG
+
+TBD
